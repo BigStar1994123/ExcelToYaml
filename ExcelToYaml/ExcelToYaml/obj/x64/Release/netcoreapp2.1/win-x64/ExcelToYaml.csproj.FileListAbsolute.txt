@@ -1,0 +1,14 @@
+C:\Users\Henry-GranDen\Documents\WorkSource\ExcelToYaml\ExcelToYaml\bin\x64\Release\netcoreapp2.1\win-x64\hostpolicy.dll
+C:\Users\Henry-GranDen\Documents\WorkSource\ExcelToYaml\ExcelToYaml\bin\x64\Release\netcoreapp2.1\win-x64\hostfxr.dll
+C:\Users\Henry-GranDen\Documents\WorkSource\ExcelToYaml\ExcelToYaml\bin\x64\Release\netcoreapp2.1\win-x64\ExcelToYaml.exe
+C:\Users\Henry-GranDen\Documents\WorkSource\ExcelToYaml\ExcelToYaml\bin\x64\Release\netcoreapp2.1\win-x64\ExcelToYaml.deps.json
+C:\Users\Henry-GranDen\Documents\WorkSource\ExcelToYaml\ExcelToYaml\bin\x64\Release\netcoreapp2.1\win-x64\ExcelToYaml.runtimeconfig.json
+C:\Users\Henry-GranDen\Documents\WorkSource\ExcelToYaml\ExcelToYaml\bin\x64\Release\netcoreapp2.1\win-x64\ExcelToYaml.runtimeconfig.dev.json
+C:\Users\Henry-GranDen\Documents\WorkSource\ExcelToYaml\ExcelToYaml\bin\x64\Release\netcoreapp2.1\win-x64\ExcelToYaml.dll
+C:\Users\Henry-GranDen\Documents\WorkSource\ExcelToYaml\ExcelToYaml\bin\x64\Release\netcoreapp2.1\win-x64\ExcelToYaml.pdb
+C:\Users\Henry-GranDen\Documents\WorkSource\ExcelToYaml\ExcelToYaml\obj\x64\Release\netcoreapp2.1\win-x64\ExcelToYaml.csprojAssemblyReference.cache
+C:\Users\Henry-GranDen\Documents\WorkSource\ExcelToYaml\ExcelToYaml\obj\x64\Release\netcoreapp2.1\win-x64\ExcelToYaml.csproj.CoreCompileInputs.cache
+C:\Users\Henry-GranDen\Documents\WorkSource\ExcelToYaml\ExcelToYaml\obj\x64\Release\netcoreapp2.1\win-x64\ExcelToYaml.AssemblyInfoInputs.cache
+C:\Users\Henry-GranDen\Documents\WorkSource\ExcelToYaml\ExcelToYaml\obj\x64\Release\netcoreapp2.1\win-x64\ExcelToYaml.AssemblyInfo.cs
+C:\Users\Henry-GranDen\Documents\WorkSource\ExcelToYaml\ExcelToYaml\obj\x64\Release\netcoreapp2.1\win-x64\ExcelToYaml.dll
+C:\Users\Henry-GranDen\Documents\WorkSource\ExcelToYaml\ExcelToYaml\obj\x64\Release\netcoreapp2.1\win-x64\ExcelToYaml.pdb
